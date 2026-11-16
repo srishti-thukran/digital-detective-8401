@@ -57,7 +57,7 @@ Chosen activity: Typing and saving a document.
 - How to create and format tables using Markdown.
 - How to use Git and GitHub to manage project files.
 
-## 3. Difficulties Faced
+## . Difficulties Faced
 
 - Understanding Markdown table formatting.
 
